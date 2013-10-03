@@ -38,6 +38,7 @@ NSString * const WowItemQualityOrange       = @"Orange";
 NSString * const WowBattlenetUrlStaticImages = @"http://us.battle.net/static-render/us/";
 NSString * const WowBattlenetUrlMediaIcon56 = @"http://us.media.blizzard.com/wow/icons/56/";
 
+
 +(NSString *)classFromCharacterType:(CharacterClassType)type
 {
     NSString *classTypeName;
